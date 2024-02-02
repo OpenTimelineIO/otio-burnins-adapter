@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: Apache-2.0
 # Copyright Contributors to the OpenTimelineIO project
 
-"""Unit tests for the rv session file adapter"""
+"""Unit tests for the burnins adapter"""
 
 import unittest
 
